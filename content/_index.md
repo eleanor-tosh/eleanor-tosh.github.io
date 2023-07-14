@@ -1,46 +1,45 @@
 ---
 content_blocks:
   - _bookshop_name: hero
-    title: Hi there, I am Vanessa Marley
+    title: Hi there, I'm Eleanor Tosh
     description_html: >-
-      <p><strong>Photographer</strong> and <strong>Visual Content
-      Strategist</strong> from Albany. I work as a lifestyle, product, and
-      landscape photographer, creating images for a diverse range of requests,
-      from online media to printed artwork.</p>
-    image: /images/01.jpg
-    image_alt: Vanessa Marley's picture
+      <p><b>Full Stack Software Developer.</b></p>
+    image:
+    image_alt: 
     cta_button: Get in touch
-    cta_button_link: '#contact'
-    works_button: See my works
+    cta_button_link: https://www.linkedin.com/in/eleanor-tosh/
+    works_button: See my projects
     works_button_link: '#projects'
+  - _bookshop_name: page-heading
+    title: About
+    description:
+  - _bookshop_name: content
+    content_html: >-
+      <p><strong>I am a full stack developer based in New
+      Zealand.</strong></p><p>From the start of April to the end of June&nbsp;
+      2023 I completed an internship at <a target="_blank"
+      href="https://cloudcannon.com/">CloudCannon</a>, working with SSG's, to
+      read more go to the <a
+      href="/">internship
+      project page</a>.</p><p>I completed <a target="_blank"
+      href="https://devacademy.co.nz">Dev
+      Academy</a> in 2022. Aside from the tech side, this bootcamp has allowed
+      me to enhance my core skills, have intensive experience pair programming
+      and working in groups of various sizes (nearly every day involves either
+      pair or group work) as well as following projects from conception to
+      completion.</p><p>Prior to this career change, I have a background in
+      biological science having completed a Bachelor of Science and Master of
+      Science in Zoology studying honeybees.</p><p>The main tech that I have
+      worked with so far are: React, Redux, JavaScript, CSS, Node.js, Express,
+      Jest, Testing Library, API's. I'm keen to learn more and am actively
+      working on it.</p><p>View a PDF of my CV <a target="_blank"
+      href="https://www.dropbox.com/scl/fi/klacr2ir2o3v3xl8wxs2h/Eleanor-Tosh-CV.pdf?dl=0&amp;rlkey=r21bw018amc46kw44y1pm6q47">here</a>.
+      To contact me, please message me via <a target="_blank"
+      href="">LinkedIn</a>.</p>
   - _bookshop_name: projects-section
-    title: Latest Works
+    title: Projects
     description_html: >-
-      <p>I show only my best works built completely with passion, simplicity,
-      and creativity!</p>
+      <p>Some projects that I am working on. Not all are complete</p>
     link_url: /projects
     show_projects: true
-  - _bookshop_name: testimonials-section
-    title: Happy Clients
-    description_html:
-    show_testimonials: true
-  - _bookshop_name: blog-section
-    title: Recent Posts
-    description_html: >-
-      <p>Vonge blog features productivity, tips, inspiration and strategies for
-      massive profits. Find out how to set up a successful blog or how to make
-      yours even better!</p>
-    link_url: /blog
-    show_posts: true
-  - _bookshop_name: newsletter
-    newsletter_title: Join my mailing list
-    newsletter_description: Get inspiration, updates and, cool stuff!
-    newsletter_identifier: >-
-      frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-    newsletter_button: Subscribe
-  - _bookshop_name: contact-form
-    form_title: Get in touch
-    form_description: Vonge comes with a built-in contact form.
-    form_submission_email: site@example.com
-    form_button_text: Send now
 ---
