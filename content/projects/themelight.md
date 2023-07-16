@@ -2,7 +2,7 @@
 date: 2023-06-30
 title: ThemeLight
 subtitle: Creating a new template to use with CloudCannon CMS using Hugo.
-tags: [Hugo, Cloudcannon, template, GO, internship]
+tags: [Hugo, Cloudcannon, template, GO, internship, complete]
 image: /uploads/hero-banner.jpg
 ---
 This was a project I did while on my internship at CloudCannon.&nbsp;
