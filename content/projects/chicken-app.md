@@ -13,11 +13,11 @@ For a video of it running, go [here](https://www.dropbox.com/s/bpai85iwx9m1oy3/c
 
 The user can keep a record for of there hens making it easy for them to remember which is which, how old they are, egg laying status and any notes.
 
-![](/uploads/myhens.png){: width="1893" height="1345"}
+![](/uploads/myhens.png)
 
 The user can calculate how much it costs to produce each egg. They enter some details about what they feed their chickens and what they use for bedding along with a few other inputs. The result is a summary of the average cost to produce each egg, keep each hen and a breakdown by cost to feed and house the little dinosaurs.
 
-![Sea](/uploads/chickenformupdate.png){: width="1681" height="1225"}
+![Sea](/uploads/chickenformupdate.png)
 
 Other features include: a new pun on each re-load of the homepage, a recipe page with links to recipes that are heavy on the egg.
 
@@ -27,6 +27,6 @@ Starting with create-react-app, this project keeps it simple with Tailwind for C
 
 An additional aim is to get this app deployed using Heroku.
 
-![](/uploads/henresult.png){: width="1661" height="1355"}
+![](/uploads/henresult.png)
 
 Visit the [GitHub repository](https://github.com/eleanor-tosh/chicken-app) to view the code.

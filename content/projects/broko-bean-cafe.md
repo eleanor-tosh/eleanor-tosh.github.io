@@ -7,7 +7,7 @@ image: /uploads/broko-bean.png
 ---
 A website for a cafe called "Broko Bean" using React and Tailwind. Formik and Yup for the contact form. Deployed on Heroku, see it live [here](https://broko-bean.herokuapp.com/) (it will take a moment to load)
 
-![](/uploads/broko1.png){: width="1900" height="1293"}
+![](/uploads/broko1.png)
 
 Practicing layouts and tailwind for the most part, including making sure it looks good on mobile. This was a quick project.
 

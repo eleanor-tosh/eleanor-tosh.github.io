@@ -19,6 +19,6 @@ The tech/methods used includes: React, Redux, JavaScript, HTML, CSS, CRUD, RegEx
 
 The project is not complete, one thing I want to re-do is all the styling as well as creating the above features.
 
-![Sea](/uploads/accordion-dogs.png){: width="1563" height="1099"}
+![Sea](/uploads/accordion-dogs.png)
 
 Visit the [GitHub repository](https://github.com/eleanor-tosh/flygility-project) to view the code.

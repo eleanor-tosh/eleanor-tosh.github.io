@@ -13,7 +13,7 @@ A large part of this project was also to test as many aspects as the app as poss
 
 Much of this project was completed by practicing pair-programming and Agile methodology.&nbsp;
 
-![Sea](/uploads/createevent.png){: width="1843" height="1356"}
+![Sea](/uploads/createevent.png)
 
 With this project their are some changes and extensions that I would like to do beyond the work that my group did. This includes adding a game that involves that participants uploading a photo of their Christmas tree. After the draw, the participants get to guess which tree belongs to each party guest.
 
