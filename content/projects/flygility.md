@@ -2,7 +2,7 @@
 date: 2023-01-01
 title: Flygility NZ
 subtitle: Dog sport app.
-tags: [react, javascript, css, html, redux, unfinshed]
+tags: [react, javascript, css, html, redux, unfinished]
 image: /uploads/flygilityimage.jpg
 ---
 Flygility is a sport in New Zealand where dogs race against each other to complete a set of obstacles, collect a tennis ball, and return over the obstacles to their handler.
