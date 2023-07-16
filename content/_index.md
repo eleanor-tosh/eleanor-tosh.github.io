@@ -1,7 +1,7 @@
 ---
 content_blocks:
   - _bookshop_name: hero
-    title: Hi there, I'm Eleanor Tosh
+    title: Hi, I'm Eleanor Tosh
     description_html: >-
       <p><b>Full Stack Software Developer.</b></p>
     image:
