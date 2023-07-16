@@ -4,15 +4,13 @@
 
 {{ partial "bookshop" (slice "page-heading" (dict "title" .Params.title)) }}
 
-<ul>
-  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-      {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-          <li><a href="{{ .Permalink }}">{{ $name }}</a></li>
-      {{ end }}
-  {{ end }}
-</ul>
+
+
 
 <div class="container">
+
+
+
   <!-- <h1>Posts</h1>
     <div class="row">
       <div class="col col-12">
@@ -38,10 +36,17 @@
         </div>
       </div>
     </div>
+    <div class="project-tags">
+      <h2>All tags:</h2>
+  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+         <a href="{{ .Permalink }}" class="project-tags__tag">{{ $name }}</a>
+      {{ end }}
+  {{ end }}
+</div>
 </div>
 
 
-{{ partial "bookshop" (slice "newsletter" (dict "newsletter_title" site.Data.newsletter.newsletter_title "newsletter_description" site.Data.newsletter.newsletter_description "newsletter_identifier" site.Data.newsletter.newsletter_identifier "newsletter_button" site.Data.newsletter.newsletter_button)) }}
 
 {{ end }}
 
