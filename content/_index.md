@@ -4,8 +4,8 @@ content_blocks:
     title: Hi, I'm Eleanor Tosh
     description_html: >-
       <p><b>Full Stack Software Developer.</b></p>
-    image:
-    image_alt: 
+    image: /uploads/bees.jpg
+    image_alt: Honeybees
     cta_button: Get in touch
     cta_button_link: https://www.linkedin.com/in/eleanor-tosh/
     works_button: See my projects
