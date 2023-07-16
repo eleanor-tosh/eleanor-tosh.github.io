@@ -4,6 +4,14 @@
 
 {{ partial "bookshop" (slice "page-heading" (dict "title" .Params.title)) }}
 
+<ul>
+  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+          <li><a href="{{ .Permalink }}">{{ $name }}</a></li>
+      {{ end }}
+  {{ end }}
+</ul>
+
 <div class="container">
   <!-- <h1>Posts</h1>
     <div class="row">
