@@ -1,0 +1,20 @@
+{{ $c := "c-tags-section" }}
+
+<div class="container">
+
+  {{ define "main" }}
+
+{{ if (eq .Section "tags") }}
+
+  <div class="project-tags">
+    <h2>All tags:</h2>
+{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+    {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+       <a href="{{ .Permalink }}" class="project-tags__tag">{{ $name }}</a>
+    {{ end }}
+{{ end }}
+</div>
+
+{{end}}
+{{end}}
+</div>
