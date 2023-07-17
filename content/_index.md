@@ -39,7 +39,17 @@ content_blocks:
   - _bookshop_name: projects-section
     title: Projects
     description_html: >-
-      <p>Some projects that I am working on. Not all are complete</p>
+      <p>Some projects that I am working on. Not all are complete. Most recent listed first.</p>
     link_url: /projects
     show_projects: true
+  - _bookshop_name: page-heading
+    title: Additional information
+    description:
+  - _bookshop_name: content
+    content_html: >-
+      <p>I am an adaptable, logical, solution-orientated person with a passion for helping people. At work I'm a natural collaborator who values teamwork and fostering a positive work environment. I love coming up with new ideas and brainstorming. Working with others and exploring different ways of doing things and different potential ideas really excites me.</p>
+      <p>I really like getting involved in work activities and fully engaging. From strawberry growing competitions to workplace olympics, you bet I will be there! 
+      <p>At work and outside of work I also like to do some charity projects such as fundraising activities. In the past this has included <a target="_blank" href="https://www.steptember.org.au/">Steptember</a>  (not just doing the steps, also fund raising), the <a target="_blank" href="https://actforpeace.rationchallenge.org.au/">Ration Challenge</a>, <a target="_blank" href="https://www.loudshirtday.org.nz/">Loud Shirt Day</a>, <a target="_blank" href="https://www.runningcalendar.co.nz/event/step-up-challenge-stadium-dunedin/">Step Up Challenge</a> event volunteer.</p>
+      <p>Outside of work I have also been a member of a few clubs including the Otago Canine Training Club and Taieri Canine Training Club (helping with all club activities incluing the committee), also the Dunedin Beekeeping Club. For personal and professional growth I have also done Toastmasters.</p>
+     
 ---
