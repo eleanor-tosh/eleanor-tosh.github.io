@@ -20,7 +20,7 @@ content_blocks:
       2023 I completed an internship at <a target="_blank"
       href="https://cloudcannon.com/">CloudCannon</a>, working with SSG's, to
       read more go to the <a
-      href="/">internship
+      href="/projects/cloudcannon-internship/">internship
       project page</a>.</p><p>I completed <a target="_blank"
       href="https://devacademy.co.nz">Dev
       Academy</a> in 2022. Aside from the tech side, this bootcamp has allowed
@@ -31,7 +31,7 @@ content_blocks:
       biological science having completed a Bachelor of Science and Master of
       Science in Zoology studying honeybees.</p><p>The main tech that I have
       worked with so far are: React, Redux, JavaScript, CSS, Node.js, Express,
-      Jest, Testing Library, API's. I'm keen to learn more and am actively
+      Jest, Testing Library, API's, Hugo, Eleventy (liquid). I'm keen to learn more and am actively
       working on it.</p><p>View a PDF of my CV <a target="_blank"
       href="https://www.dropbox.com/scl/fi/klacr2ir2o3v3xl8wxs2h/Eleanor-Tosh-CV.pdf?dl=0&amp;rlkey=r21bw018amc46kw44y1pm6q47">here</a>.
       To contact me, please message me via <a target="_blank"
